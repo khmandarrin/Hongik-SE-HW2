@@ -1,8 +1,10 @@
 ## 개인 코드
 010205
+
 ## 깃허브 주소
 https://github.com/khmandarrin/Hongik-SE-HW2.git
 
+## Requirement list
 | No. | Requirement | Use Case(s) |
 | --- | --- | --- |
 | 1 | 사용자는 ID, 비밀번호, 전화번호를 입력하여 회원가입할 수 있다. | 회원가입 |
